@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    135deg,
+    #d0e7ff 0%,
+    #c2ddff 25%,
+    #b0d4ff 50%,
+    #a0cfff 75%,
+    #bce0ff 100%
+  );
+
+  font-family: 'Poppins', sans-serif;
+
+}
