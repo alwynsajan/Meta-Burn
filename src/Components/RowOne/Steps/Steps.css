@@ -1,7 +1,6 @@
 .stepsCard {
   background-color: white;
   border-radius: 10px;
-  box-shadow: 10px 10px 8px rgba(0, 0, 0, 0.2);
   flex: 0 0 calc((100% - 40px) * 0.25);
   max-width: 0 0 calc((100% - 40px) * 0.25);
 }
