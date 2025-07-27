@@ -26,12 +26,23 @@
     font-weight: bold;
     color: black;
     padding-left: 20px;
+    padding-bottom: 10px;
 }
 
 .workoutHeading2{
     font-family: 'Poppins', sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     color: black;
     padding-left: 20px;
+}
+
+.selectWorkout{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    color: black;
 }
