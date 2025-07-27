@@ -3,8 +3,10 @@ import './Progress.css';
 
 function Progress() {
   return (
-        <div className="progressCard">
-            <h1 className='progressHeading'>Progress</h1>
+        <div className="progressCard card h-100">
+            <div className="card-body">
+                <h1 className="progressHeading">Progress.</h1>
+            </div>
         </div>
   )
 }

@@ -8,8 +8,8 @@ function RowOne() {
   return (
     <div className='workoutElement'>
         <TrackWorkout/>
-        <Progress/>
         <Steps/>
+        <Progress/>
     </div>
   )
 }
